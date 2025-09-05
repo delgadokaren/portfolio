@@ -1,4 +1,3 @@
-![ProfilePicture](/Assets/ProfilePicture.jpg)
 ### Data Science Student @ WashU
 ### Education
 Data Science & Finance @WashU
