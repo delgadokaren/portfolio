@@ -1,6 +1,6 @@
 # Data Science Student
 
-#### Technical Skills: Python, SQL, Snowflake, Apache Airflow
+#### Technical Skills: Python, SQL, Snowflake, Apache Airflow, R, SPSS
 ## Education
 - Data Science & Finance | Washington University in St.Louis (May 2026)
 
