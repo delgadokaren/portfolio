@@ -1,5 +1,5 @@
 Data Science Student @ WashU
-
+![ProfilePicture](/Assets/ProfilePicture.jpg)
 ## Education
 Data Science & Finance @WashU
 
