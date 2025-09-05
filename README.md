@@ -16,7 +16,7 @@ Statistical model to predict asbestos in NY Buildings
 
 ## Work Experience
 
-** Digital & Technology Audit Intern @ US Bank (Summer 2025) **
+**Digital & Technology Audit Intern @ US Bank (Summer 2025)**
 - Performed control testing and audit fieldwork for technology-focused engagements, including recalculation procedures using Excel and evidence collection from production and UAT environments to assess internal control effectiveness.
 - Collaborated with IT and engineering stakeholders to understand system workflows (e.g., APIs, encryption, batch processing), and documented findings in comprehensive workpapers with clear narratives explaining how technical architecture aligns with audit scope and risk objectives.
 
