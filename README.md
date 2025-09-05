@@ -10,6 +10,7 @@ Interactive PowerBi Dashboard to compare vehicles by price, emissions, and fuel 
 
 ## NY Asbestos Predictive Model | Apache Airflow & Zillow API
 Statistical model to predict asbestos in NY Buildings
+![NY_Asbestos](/Assets/NY_Asbestos.png)
 
 ### Work Experience
 
