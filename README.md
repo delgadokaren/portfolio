@@ -10,11 +10,11 @@
 - Developed an end-to-end data pipeline using Apache Airflow and Snowflake to integrate, clean, normalize over 55,000 observations from four large vehicle-related datasets, including FuelEconomy.gov
 - Engineered a structured data model and built an interactive PowerBi dashboard– Kelley Green Book– enabling users to compare vehicles by price, emissions, and fuel efficiency without paywalls or ads.
 
-![Fuel_Economy](/Assets/Fuel_Economy.png)
+![Fuel_Economy](/assets/Fuel_Economy.png)
 
 ### NY Asbestos Predictive Model | Apache Airflow & Zillow API
 Statistical model to predict asbestos in NY Buildings
-![NY_Asbestos](/Assets/NY_Asbestos.png)
+![NY_Asbestos](/assets/NY_Asbestos.png)
 
 ## Work Experience
 
