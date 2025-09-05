@@ -1,10 +1,15 @@
-# portfolio
+##Data Science Student @ WashU
 
-# Data Science Student
+## Education
+Data Science & Finance @WashU
 
-# Education
-Data Science & Finance @WashI
+## Project Involvement
+#Kelley Green Book Dashboard
+Interactive PowerBi Dashboard to compare vehicles by price, emissions, and fuel efficiency without paywalls or ads by leveraging 55k+ dataset, Apache Airflow, & Airflow.
+![Portfolio_Images]
 
-# Work Experience
 
-# Projects
+## Work Experience
+
+
+
