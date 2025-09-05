@@ -1,6 +1,10 @@
-@import "{{ site.theme }}";
+---
+---
+
+@import "{{ site.theme }}";  // theme comes first
 @import "fonts";
 @import "rouge-github";
+
 
 body {
   background-color: #86ad59; //new background color
